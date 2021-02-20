@@ -29,11 +29,11 @@ unordered
 ----------------------------------------------------
 ***to insert image***
 ![Github](https://images.ctfassets.net/hrltx12pl8hq/4plHDVeTkWuFMihxQnzBSb/aea2f06d675c3d710d095306e377382f/shutterstock_554314555_copy.jpg)
------------------------------------------------------
+-----------------------------------------------------                 
 ***To insert link***
 [Github link](https://www.google.com/search?q=github+link&oq=github+link&aqs=chrome..69i57j0l7.4366j0j7&sourceid=chrome&ie=UTF-8)
 
-------------------------------------------------------
+------------------------------------------------------               
 ***To insert a table***
 
 |Name|Branch|Rollno|
